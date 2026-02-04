@@ -2,6 +2,7 @@
 
 🎓 Étudiant ingénieur en informatique à CESI Nice  
 🏎️ Passionné par le sport automobile et l'informatique
+
 💻 Intéressé par la programmation, le développement logiciel et Web, la data et l’IA
 
 ## Stage
