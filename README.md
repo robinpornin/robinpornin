@@ -1,14 +1,14 @@
-## 👋 Bonjour, je suis Robin
+# 👋 Bonjour, je suis Robin
 
 🎓 Étudiant ingénieur en informatique à CESI Nice  
 🏎️ Passionné par le sport automobile et les projets techniques innovants  
 💻 Intéressé par le développement logiciel, la data, l’IA et les systèmes embarqués  
 
-## 🎯 Stage
+# 🎯 Stage
 Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informatique, idéalement mêlant développement, data et innovation technique.  
 
 
-## 🔧 Compétences techniques
+# 🔧 Compétences techniques
 - **Programmation :** Python, C++, C, Arduino
 - **Bases de données :** SQL, méthodes Merise, Access, SBGDR
 - **Développement Web :** HTML, CSS, JavaScript, Apache
@@ -18,7 +18,7 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 - **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels  
 
 
-## 🚀 Projets académiques & personnels
+# 🚀 Projets académiques & personnels
 - Coffre-fort connecté piloté par Arduino  
 - Base de données SQL complète + analyse de données avec Excel  
 - Station météo autonome en C++/Arduino  
@@ -31,11 +31,11 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 
 
 
-## 🌐 Contact
+# 🌐 Contact
 - Email : porninrobin2007@gmail.com  
 - LinkedIn : [linkedin.com/in/robin-pornin-8306b1389](https://www.linkedin.com/in/robin-pornin-8306b1389)  
 
 
 
-## ⚡ Centres d’intérêt
+# ⚡ Centres d’intérêt
 Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
