@@ -6,20 +6,16 @@
 
 💻 Intéressé par la programmation, le développement logiciel et Web, la data et l’IA
 
----
+#
 
 ## 🎯 Stage
 Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informatique, idéalement mêlant développement, data et innovation technique.  
 
----
+#
 
 ## 🔧 Compétences techniques
 
-**Programmation :**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+**Programmation :**  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ; ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ; ![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white) ; ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
 **Bases de données :**  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white) 
