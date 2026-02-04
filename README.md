@@ -15,6 +15,10 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 
 ## Compétences techniques
 - **Programmation :** Python, C++, C, Arduino
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 - **Bases de données :** SQL, méthodes Merise, Access, SBGDR
 - **Développement Web :** HTML, CSS, JavaScript, Apache
 - **Réseaux et Systèmes :** Cisco, OSI, TCP/IP, VM
