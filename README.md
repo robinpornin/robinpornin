@@ -44,3 +44,4 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 
 ## Centres d’intérêt
 Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
+#
