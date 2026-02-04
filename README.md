@@ -4,11 +4,14 @@
 🏎️ Passionné par le sport automobile et les projets techniques innovants  
 💻 Intéressé par le développement logiciel, la data, l’IA et les systèmes embarqués  
 
----
 
 ## 🔧 Compétences techniques
-- **Langages & Bases de données :** Python, C++, C, Arduino, SQL, HTML/CSS, POO  
-- **Systèmes & outils :** Windows, Linux, Git, Arduino IDE, VS Code, CLion, Packet Tracer, VMware, Fusion 360  
+- **Programmation :** Python, C++, C, Arduino
+- **Bases de données :** SQL, méthodes Merise, Access, SBGDR
+- **Développement Web :** HTML, CSS, JavaScript, Apache
+- **Réseaux et Systèmes :** Cisco, OSI, TCP/IP, VM
+- **Conception Digitale :** CAO, Canva
+- **Systèmes & outils :** Windows, Linux, Git, Arduino IDE, VS Code, CLion, mySQL, Packet Tracer, VMware, Fusion 360  
 - **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels  
 
 ---
