@@ -45,3 +45,24 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 ## Centres d’intérêt
 Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
 #
+
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Merise](https://img.shields.io/badge/-Merise-FF5733?style=flat)
+![Access](https://img.shields.io/badge/-Access-A41E22?style=flat&logo=microsoft-access&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Apache](https://img.shields.io/badge/-Apache-FC6C0C?style=flat&logo=apache&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0E2?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6F00?style=flat)
+![Fusion 360](https://img.shields.io/badge/-Fusion360-FF6F00?style=flat)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
