@@ -9,7 +9,7 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 
 #
 
-# 🔧 Compétences techniques
+# Compétences techniques
 - **Programmation :** Python, C++, C, Arduino
 - **Bases de données :** SQL, méthodes Merise, Access, SBGDR
 - **Développement Web :** HTML, CSS, JavaScript, Apache
@@ -20,7 +20,7 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 
 #
 
-# 🚀 Projets académiques & personnels
+# Projets académiques & personnels
 - Coffre-fort connecté piloté par Arduino  
 - Base de données SQL complète + analyse de données avec Excel  
 - Station météo autonome en C++/Arduino  
@@ -34,11 +34,11 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 #
 
 
-# 🌐 Contact
+# Contact
 - Email : porninrobin2007@gmail.com  
 - LinkedIn : [linkedin.com/in/robin-pornin-8306b1389](https://www.linkedin.com/in/robin-pornin-8306b1389)  
 
 #
 
-# ⚡ Centres d’intérêt
+# Centres d’intérêt
 Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
