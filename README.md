@@ -1,5 +1,3 @@
-vas y essaye avec ca : 
-
 # 👋 Bonjour, je suis Robin
 
 🎓 Étudiant ingénieur en informatique à CESI Nice  
