@@ -4,12 +4,12 @@
 
 🏎️ Passionné par le sport automobile et l'informatique 
 
-💻 Intéressé par la programmation, le développement logiciel et Web, la data et l’IA
+💻 Intéressé par la programmation, le développement, la data et l’IA
 #
 
 
 ## Stage
-Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informatique, idéalement mêlant développement, data et innovation technique.  
+Recherche une **alternance pour l'année scolaire 2026/2027, à partir d'ocobre 2026** en informatique, idéalement mêlant data, programmation, network et innovation technique.  
 #
 
 
@@ -21,6 +21,13 @@ Recherche un **stage de 8 à 12 semaines à partir d’avril 2026** en informati
 - **Conception Digitale :** CAO, Canva
 - **Systèmes & outils :** Windows, Linux, Git, Arduino IDE, VS Code, CLion, mySQL, Packet Tracer, VMware, Fusion 360  
 - **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels  
+#
+
+
+## Futur stagiaire chez *Thales Alenia Space ©* (avril-juillet 2026)
+- Travail sur les tests thermodynamiques des satellites
+- Manipulation de données
+- Création de macros
 #
 
 
