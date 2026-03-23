@@ -8,7 +8,7 @@
 #
 
 
-## Stage
+## Alternance 2026/2027
 Recherche une **alternance pour l'année scolaire 2026/2027, à partir d'ocobre 2026** en informatique, idéalement mêlant data, programmation, network et innovation technique.  
 #
 
