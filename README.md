@@ -24,7 +24,7 @@ Recherche une **alternance pour l'année scolaire 2026/2027, à partir d'ocobre 
 #
 
 
-## Futur stagiaire chez *Thales Alenia Space ©* (avril-juillet 2026)
+## Futur stagiaire chez *Thales Alenia Space* (avril-juillet 2026)
 - Travail sur les tests thermodynamiques des satellites
 - Manipulation de données
 - Création de macros
