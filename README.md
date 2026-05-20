@@ -20,7 +20,16 @@ Recherche une **alternance pour l'année scolaire 2026/2027, à partir d'ocobre 
 - **Réseaux et Systèmes :** Cisco, OSI, TCP/IP, VM
 - **Conception Digitale :** CAO, Canva
 - **Systèmes & outils :** Windows, Linux, Git, Arduino IDE, VS Code, CLion, mySQL, Packet Tracer, VMware, Fusion 360  
-- **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels  
+- **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels
+o Langages de programmation : Python, SQL, C++, C, Arduino, HTML, CSS, PHP, VBA, Bash
+o Bases de données : SQL, Excel, CSV, SGBDR, Modélisation UML/Merise, Power BI
+o Réseaux : CCNA1, Modèles OSI et TCP/IP, routage, switching, VLAN, troubleshooting, protocoles réseaux, IPv4/IPv6
+o Développement Web : HTML5, CSS3, JavaScript, PHP, Hébergement Apache, HTTP/HTTPS
+o Autres : Systèmes embarqués, IA, CAO, Conception graphique, , Scrum, Résolution de problèmes (mathématiques et informatiques)
+o Outils : Windows, Linux, Ubuntu, Microsoft Office, VSCode, Spyder, Github, MySQL, VMware, Cisco Packet Tracer, Canva, Fusion 360,
+Arduino IDE, Apache, Power BI...
+o Compétences rigoureuses en résolution de problèmes (mathématiques et informatiques).
+o Rédaction de livrables professionnels
 #
 
 
