@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Robin
+# Bonjour :) je suis Robin
 
 🎓 Étudiant ingénieur en informatique à CESI Nice  
 
