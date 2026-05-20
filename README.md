@@ -66,6 +66,7 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Apache](https://img.shields.io/badge/-Apache-FC6C0C?style=flat&logo=apache&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco-1BA0E2?style=flat&logo=cisco&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
