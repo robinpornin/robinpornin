@@ -14,12 +14,6 @@ Recherche une **alternance pour l'année scolaire 2026/2027, à partir d'ocobre 
 
 
 ## Compétences techniques
-
-
-
-
-- **Systèmes & outils :** Windows, Linux, Git, Arduino IDE, VS Code, CLion, mySQL, Packet Tracer, VMware, Fusion 360  
-- **Autres compétences :** Architecture informatique, structures de données, réseaux, prompt IA, CAO, rédaction de livrables professionnels
   
 - **Programmation :** Python, SQL, C++, C, Arduino, HTML, CSS, PHP, VBA, Bash, Embarqué
 - **Bases de données :** SQL, Excel, CSV, SGBDR, Modélisation UML/Merise, Access, Power BI
