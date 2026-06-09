@@ -82,6 +82,6 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 
 ## CV
 
-![mon cv](images/CV Robin Pornin ALTERNANCE.png)
+![mon cv](images/CV_Robin_Pornin_ALTERNANCE.png)
 
 
