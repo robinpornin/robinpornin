@@ -78,3 +78,10 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+#
+
+## CV
+
+![mon cv](images/CV Robin Pornin ALTERNANCE.png)
+
+
