@@ -58,6 +58,7 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 #
 
 
+## Domaines 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-555?style=flat&logo=c&logoColor=white)
@@ -82,6 +83,5 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 
 ## CV
 
-![mon cv](images/CV_Robin_Pornin_ALTERNANCE.png)
-
-
+[![mon cv](images/CV_Robin_Pornin_ALTERNANCE.png)](documents/CV_Robin_Pornin_ALTERNANCE.pdf)
+#
