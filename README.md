@@ -52,12 +52,6 @@ Arduino IDE, Apache, Power BI...
 - LinkedIn : [linkedin.com/in/robin-pornin-8306b1389](https://www.linkedin.com/in/robin-pornin-8306b1389)  
 #
 
-
-## Centres d’intérêt
-Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
-#
-
-
 ## Domaines 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -81,7 +75,11 @@ Voyages | Découverte et innovation | Photographie | Automobile | Sports (volley
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 #
 
-## CV
+## Centres d’intérêt
+Voyages | Découverte et innovation | Photographie | Automobile | Sports (volleyball, natation, sports mécaniques)
+#
+
+## Mon CV
 
 [![mon cv](images/CV_Robin_Pornin_ALTERNANCE.png)](documents/CV_Robin_Pornin_ALTERNANCE.pdf)
 #
