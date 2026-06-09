@@ -70,6 +70,7 @@ Arduino IDE, Apache, Power BI...
 ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-FF6F00?style=flat)
 ![Fusion 360](https://img.shields.io/badge/-Fusion360-FF6F00?style=flat)
+![VBA](https://img.shields.io/badge/-VBA-217346?style=flat&logo=microsoft&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
